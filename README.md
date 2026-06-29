@@ -1,7 +1,6 @@
 # Hi there, I'm Bhavitha 👋
 
-🎓 Integrated M.Tech Software Engineering Student at VIT-AP University, with a strong commitment to learning, adapt-
-ability, and professional growth. Passionate about building scalable software solutions, learning cloud technologies,
+🎓 Integrated M.Tech Software Engineering Student at VIT-AP University, with a strong commitment to learning, adaptability, and professional growth. Passionate about building scalable software solutions, learning cloud technologies,
 and solving real-world engineering problems through collaboration.
 
 ## 🚀 Technical Skills
