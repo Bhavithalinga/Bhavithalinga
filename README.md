@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Bhavitha 👋
 
-<!--
-**Bhavithalinga/Bhavithalinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech Software Engineering Student at VIT-AP University, with a strong commitment to learning, adapt-
+ability, and professional growth. Passionate about building scalable software solutions, learning cloud technologies,
+and solving real-world engineering problems through collaboration.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Java
+- Python
+
+### Databases
+- SQL
+- MongoDB
+- Apache Cassandra
+- Redis
+- Neo4j
+
+### Tools
+- Git
+- GitHub
+- Power BI
+- VS Code
+
+### Concepts
+- OOP
+- Data Structures & Algorithms
+- DBMS
+- REST APIs
+- Agile & Scrum
+- Operating Systems
+- Computer Networks
+- Spring Boot(basics)
+- REST APIs
+- Microservices(basics)
+- AWS(basics)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/linga-bhavitha-b31969267
+- Email: lingbhavitha27@gmail.com
