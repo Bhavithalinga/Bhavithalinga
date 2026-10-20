@@ -33,7 +33,7 @@ and solving real-world engineering problems through collaboration.
 - Spring Boot(basics)
 - REST APIs
 - Microservices(basics)
-- AWS(basics)
+- AWS, LLM, RAG (basics)
 
 ---
 
